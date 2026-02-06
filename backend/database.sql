@@ -1,0 +1,5 @@
+-- La tabla usuarios ya existe en siag_dev_local
+-- Solo necesitas insertar un usuario de prueba si no tienes ninguno
+-- Ejemplo de inserción (ajusta según tus datos):
+-- INSERT INTO usuarios (nombres, apellidos, usuario, contraseña) 
+-- VALUES ('Admin', 'Sistema', 'admin', '$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi');
